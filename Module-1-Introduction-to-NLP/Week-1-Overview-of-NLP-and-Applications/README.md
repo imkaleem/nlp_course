@@ -1,4 +1,3 @@
-```markdown
 # Week 1: Introduction to NLP  
 
 Welcome to Week 1 of the **Foundations of NLP**! This week marks the beginning of your journey into the fascinating world of Natural Language Processing (NLP). We'll focus on building a strong foundation by understanding what NLP is, exploring its diverse applications, and familiarizing ourselves with the essential tools that power NLP solutions.  
