@@ -92,5 +92,4 @@ Once you’ve completed this week’s lessons and assignments, get ready to dive
 
 ---
 
-This README will serve as a guide throughout Week 1. Feel free to explore the [Topics.md](./Topics.md) document for an in-depth explanation of this week’s topics!  
-```
+This README will serve as a guide throughout Week 1. Feel free to explore the [Topics.md](./Topics.md) document for an in-depth explanation of this week’s topics!
