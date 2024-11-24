@@ -80,10 +80,10 @@ Setting up these tools is simple and will be covered in the practical walkthroug
 
 ---
 
-## Assignments:  
-- [Tokenize and Count Word Frequencies](./Assignments/Assignment-1-Tokenization-and-Word-Frequencies.ipynb)  
-- [Explore NLTK Basics](./Assignments/Assignment-2-Exploring-NLTK.ipynb)  
-- [Identify an NLP Dataset](./Assignments/Assignment-3-Dataset-Identification.ipynb)  
+## Assignments:
+- [Tokenize and Count Word Frequencies](./Assignments/Assignment-1-Tokenization-and-Word-Frequencies.ipynb)
+- [Explore NLTK Basics](./Assignments/Assignment-2-Exploring-NLTK.ipynb)
+- [Identify an NLP Dataset](./Assignments/Assignment-3-Dataset-Identification.ipynb)
 
 ---
 
